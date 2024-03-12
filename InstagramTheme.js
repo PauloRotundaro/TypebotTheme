@@ -76,11 +76,11 @@ if (elementoPai) {
           </div>
           <div class="primary-info">
               <p class="name">${var_nome}</p>
-              <p>Instagram â€¢ ${var_insta_nome}</p>
+              <p>Instagram • ${var_insta_nome}</p>
           </div>
           <div class="secondary-info">
-              <p>${var_seguidores} seguidores â€¢ ${var_publi} publicaÃ§Ãµes</p>
-              <p>Segue vocÃª</p>
+              <p>${var_seguidores} seguidores • ${var_publi} publicações</p>
+              <p>Segue você</p>
           </div>
           <a href="${var_insta_url}" target="_blank">ver perfil</a>
 
